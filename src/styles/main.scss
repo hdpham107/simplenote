@@ -1,0 +1,18 @@
+// tạo 7 folder con gom lại thành 1 file duy nhất
+// số 7
+// 1. base - reset và customize (đè code thư viện cho toàn bộ website)
+// 2. helper - file biến, file extend, file mixin,
+// 3. component - section nhỏ, form input
+// 4. layouts - header footer phạm vi dùng rộng hơn component
+// 5. page - home, admin, contact,... nếu làm nhiều trang thì sẽ có thư mục page, trang udemy không cần
+// 6. vendor - chứa code của thư viện
+// 7. theme - chứa các code theo vacation, nền đen, nền sáng chủ yếu thay đổi về màu sắc, trang udemy không cần
+
+// tùy theo trang mà có, không bắt buộc là số 7
+// khi đặt folder con thì có _ ở đầu
+// số 1
+// tất cả các folder trên gom lại thành 1
+
+// plugin hỗ trợ code SASS
+// SCSS IntelliSense (gợi ý code)
+// SCSS Formatter (format code)
